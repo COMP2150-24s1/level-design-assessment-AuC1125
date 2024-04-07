@@ -108,17 +108,17 @@ An example has been included. Please replace this with any actual tools, and add
 
 
 ### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
+**Nature of Use** Improving the wordings with my original texts.
 
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
+**Evidence Attached?** 
 
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
+**Additional Notes:** I use ChatGPT to try to add more words because of the word lake, and improve the grammar because the English skills are insufficient and I can't use my English skills like a normal English person.
 
-### Tool Used: Example
-**Nature of Use** Example Text
+### Tool Used: Google Translate
+**Nature of Use** Translate the words I don't really know the meaning or typing Chinese and translate them to English so I can use them into the document.
 
-**Evidence Attached?** Example Text
+**Evidence Attached?**
 
-**Additional Notes:** Example Text
+**Additional Notes:**
 
 
