@@ -6,7 +6,17 @@
 
 ## 1. Player Experience (~700 words)
 
-Each level section has its own meaning. Level one, which is section one, is the introduction. It gives players the chance to understand the mechanics and the dynamics. It causes the section to be easy but a short level. Level 2 (Section 2) is a level that increases some enemies and requires a bit of skills. It means that you cannot easily pass through it like Section 1. It has a door players need to trigger, and players need to climb up to reach the next key and next level so it helps you to improve players controlling and understanding of the game so players can get prepared for the next level which is Section 3. The final level has many monsters and stuff that needs to be triggered. The map is not very spacious, so enemies get close, making the level more difficult. Players may need some better controlling for them to dodge the attacks. After all the levels, players should already find all the keys and find the way back to the key door otherwise players can still go back the same way because the map is reversible. 
+In the game's level design, each section serves a distinct purpose, contributing to the overall player experience and skill development:
+
+Section 1, serving as Level 1, serves as the introductory phase. Here, players acquaint themselves with fundamental mechanics and dynamics, ensuring a gentle learning curve. Despite its brevity, this level provides essential groundwork, laying the foundation for subsequent challenges.
+
+Section 2, corresponding to Level 2, presents heightened difficulty by introducing additional enemies and requiring more advanced skills. Players encounter obstacles such as a triggered door and vertical climbing segments, fostering improved control and comprehension of gameplay nuances. This level acts as a stepping stone, preparing players for the escalating challenges of Section 3.
+
+Section 3, the final level, presents the ultimate test of player proficiency. With an abundance of adversaries and confined spaces, players must demonstrate mastery of controls to navigate successfully. Close-quarters combat necessitates precise maneuvering and strategic evasion to overcome the heightened difficulty. Additionally, the map's reversible nature ensures players must utilize acquired keys efficiently, further enhancing the challenge and depth of the gameplay experience.
+
+Upon completing all levels, players must locate and utilize acquired keys to access the key door. This mechanic encourages thorough exploration and ensures players have fully engaged with each level's challenges. Moreover, the option to retrace one's steps underscores the game's non-linear design, offering players flexibility in their approach and fostering replayability.
+
+Through these meticulously crafted level sections, players undergo a comprehensive journey of skill development and progression, culminating in a satisfying and immersive gaming experience.
 
 ### 1.1. Discovery
 
@@ -34,7 +44,17 @@ Each section has been carefully designed with a unique aesthetic and layout to c
 
 ## 2. Core Gameplay (~400 words)
 
-At the beginning, the player first contacts Passthrough Platforms and Weapon Pickup (Staff). This will let him know that he can pass through this special terrain at will and obtain the first weapon in the game. If the player does not pass through Passthrough Platforms to obtain the weapon, it will cause the player to be trapped in front of him. Obstacles prevent progress. After obtaining the weapon, the player can use the weapon to destroy obstacles and then the player will encounter Chompers. Although Chompers can move, they only attack at close range. At this time, players can use attacks to kill monsters. Next, there will be indestructible obstacles such as Spikes, which will cause the player to lose HP. At this time, the player can only stay away from Spikes. If the player unfortunately encounters Spikes and loses HP, there will be Health Pickups for the player later. It can help the player gain an HP point that will later have Checkpoints because they will encounter Acid on the way. If the player accidentally falls into Acid, they will return to the most recently touched Checkpoints. Players need to wait for the arrival of Moving Platforms. Standing on Moving Platforms allows players to safely navigate dangerous Acid. There will be a Spitters waiting for you when you reach the safe side. The player needs to attack him otherwise he will attack the player from a distance. Just keep walking and you will get the first key. After obtaining the first key, players will find Weapon Pickup (Gun) in level 2, which can perform remote attacks and trigger some Switches to help players break through the Trigger Door and reach the end. 
+In the initial stage, players are introduced to Passthrough Platforms and Weapon Pickup (Staff). This dual encounter serves as a tutorial, educating players on their ability to navigate special terrain and acquire weaponry essential for progression. Notably, failure to utilize Passthrough Platforms to obtain the weapon leads to player entrapment, emphasizing the importance of mastering this mechanic.
+
+Upon obtaining the weapon, players face obstacles that impede progress, prompting them to employ newfound abilities to dismantle barriers. Subsequently, encounters with Chompers introduce players to close-range combat dynamics, encouraging strategic engagement to overcome adversaries.
+
+As players advance, they encounter indestructible obstacles like Spikes, which pose imminent danger by depleting player health upon contact. Negotiating these hazards necessitates careful evasion, although Health Pickups are strategically placed to mitigate potential setbacks.
+
+Further along the journey, players navigate treacherous Acid-laden terrain, necessitating deft maneuvering atop Moving Platforms to traverse safely. Here, the introduction of Spitters underscores the importance of ranged attacks to neutralize threats from a distance, enhancing gameplay depth and variety.
+
+Progressing onward, players unlock the first key, marking a pivotal milestone in their journey. Level 2 introduces Weapon Pickup (Gun), augmenting players' arsenal with remote attack capabilities. This newfound firepower enables players to trigger switches, unlocking pathways and facilitating progress through Trigger Doors toward the level's conclusion.
+
+Throughout these encounters, the introduction of progressively complex mechanics and adversaries ensures players are continuously challenged while gradually mastering essential gameplay elements. This deliberate pacing and layered progression foster engagement and mastery, enhancing the overall player experience.
 
 ### 2.1. Passthrough Platforms 
 
@@ -75,8 +95,11 @@ No additional words are necessary for this section (any words should only be wit
 ![Section3](DocImages/Screenshot 2024-04-07 202028.png)
 
 ## 4. Iterative Design (~400 words)
+In initial iterations, the game design was too simplistic, and the map sizes were small, failing to provide a challenging enough experience. Recognizing this, the second prototype aimed to address these shortcomings by increasing the map size and slightly raising the difficulty level. However, despite these tweaks, the overall feel of the game still does not live up to the expectations of the final product. 
 
-In the initial setup of the first prototype, the design was too simple, and the map was too small, so I wanted to expand the map a little and make it more difficult. In the second prototype, although the length of the map was slightly increased and the game difficulty was a little more difficult, the feeling was still far from the complete work, so many other designs were added to the third prototype to make the levels easier to distinguish. In the third prototype, more design was added to the third level and some other minor design flaws. It makes the whole game look more interesting and richer. However, because it was found that the second level was not obvious in the third prototype, the design of the second level was enhanced in the final work and all parts of the map were improved to give players enough time. Enjoy the gradual changes throughout the map and levels. 
+To bridge this gap, several enhancements were introduced in the third prototype. This iteration focused on enhancing class distinction by adding various design elements. It's worth noting that the third level received a lot of attention, ironing out minor design flaws and injecting more captivating features into the gameplay. These enhancements inject new richness and appeal into the entire game, improving the player experience. 
+
+However, despite these improvements, feedback shows that the second tier of the third prototype is still lackluster. As a result, the last version underwent further refinement, with a special emphasis on enhancing the design and clarity of the second layer. Additionally, we have made careful improvements to every aspect of the map to ensure players have many opportunities to experience the gradual evolution and unfolding of challenges throughout the game. This iterative process resulted in a final product that provides players with a deeply satisfying journey characterized by subtle changes and an engaging gameplay experience. 
 
 ## Generative AI Use Acknowledgement
 
