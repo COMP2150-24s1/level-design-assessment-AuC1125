@@ -4,19 +4,11 @@
 ### Student number: 46291539
 
 
-![WholeLevel](DocImages/Screenshot 2024-04-07 202839.png)
-![Section1](DocImages/Screenshot 2024-04-07 201709.png)
-![Section2](DocImages/Screenshot 2024-04-07 201940.png)
-![Section2.2](DocImages/Screenshot 2024-04-07 202616.png)
-![Section3](DocImages/Screenshot 2024-04-07 202028.png)
-
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 Each level section has its own meaning. Level one, which is section one, is the introduction. It gives players the chance to understand the mechanics and the dynamics. It causes the section to be easy but a short level. Level 2 (Section 2) is a level that increases some enemies and requires a bit of skills. It means that you cannot easily pass through it like Section 1. It has a door players need to trigger, and players need to climb up to reach the next key and next level so it helps you to improve players controlling and understanding of the game so players can get prepared for the next level which is Section 3. The final level has many monsters and stuff that needs to be triggered. The map is not very spacious, so enemies get close, making the level more difficult. Players may need some better controlling for them to dodge the attacks. After all the levels, players should already find all the keys and find the way back to the key door otherwise players can still go back the same way because the map is reversible. 
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
 Players can learn from the game that they should maintain a steady pace and observe the surrounding environment because all designs have their meaning, so if you accidentally miss any trivial details, you may need to spend more time looking for them or make sure the correction. 
 
@@ -25,7 +17,6 @@ The structure of encounter creation is clear and concise, making it easier for u
 Feedback from your own playtests helps reinforce learning and correct misunderstandings. 
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
 Start with easier challenges or tasks at the beginning of the game to ease players into the experience. As they become more familiar with the mechanics and gameplay, gradually increase the difficulty to keep their interest and remain challenged. 
 
@@ -34,21 +25,16 @@ Introduce a variety of game mechanics, challenges, and obstacles to keep the exp
 Pay attention to the pacing of your game, ensuring that intense moments are balanced with quieter, more contemplative sections. Monsters in the game do not respawn, so if you kill them, you will have a lot of room to relax. But before that, the monster will not stop attacking at will. 
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
 The challenge is making sure the game mechanics are intuitive and easy for inexperienced players to understand. Overwhelming players with complex mechanics or information from the start can lead to frustration and disengagement. To solve this problem, you can introduce mechanics gradually through tutorials, tooltips, or guided gameplay sequences, allowing players to learn at their own pace. 
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
 Each section has been carefully designed with a unique aesthetic and layout to create an unforgettable and immersive space. Whether it is a lush forest, a vast cityscape, or a mysterious underground cavern, the visual and spatial design of each level has been carefully crafted to evoke an atmosphere and atmosphere that captivates players and invites them to explore. My level design focuses on creating environments that foster autonomy, encourage exploration, and provide players with a memorable and immersive experience that keeps them engaged from start to finish. 
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
+At the beginning, the player first contacts Passthrough Platforms and Weapon Pickup (Staff). This will let him know that he can pass through this special terrain at will and obtain the first weapon in the game. If the player does not pass through Passthrough Platforms to obtain the weapon, it will cause the player to be trapped in front of him. Obstacles prevent progress. After obtaining the weapon, the player can use the weapon to destroy obstacles and then the player will encounter Chompers. Although Chompers can move, they only attack at close range. At this time, players can use attacks to kill monsters. Next, there will be indestructible obstacles such as Spikes, which will cause the player to lose HP. At this time, the player can only stay away from Spikes. If the player unfortunately encounters Spikes and loses HP, there will be Health Pickups for the player later. It can help the player gain an HP point that will later have Checkpoints because they will encounter Acid on the way. If the player accidentally falls into Acid, they will return to the most recently touched Checkpoints. Players need to wait for the arrival of Moving Platforms. Standing on Moving Platforms allows players to safely navigate dangerous Acid. There will be a Spitters waiting for you when you reach the safe side. The player needs to attack him otherwise he will attack the player from a distance. Just keep walking and you will get the first key. After obtaining the first key, players will find Weapon Pickup (Gun) in level 2, which can perform remote attacks and trigger some Switches to help players break through the Trigger Door and reach the end. 
 
 ### 2.1. Passthrough Platforms 
 
@@ -76,14 +62,17 @@ You should restructure the headings below to match the order they appear in your
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
 No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
+![WholeLevel](DocImages/Screenshot 2024-04-07 202839.png)
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
-
+![Section1](DocImages/Screenshot 2024-04-07 201709.png)
+![Section1](DocImages/Screenshot 2024-04-07 230011.png)
 ### 3.3. Level Map – Section 2
-
+![Section2](DocImages/Screenshot 2024-04-07 201940.png)
+![Section2.2](DocImages/Screenshot 2024-04-07 202616.png)
 ### 3.4. Level Map – Section 3
+![Section3](DocImages/Screenshot 2024-04-07 202028.png)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
